@@ -1,0 +1,6 @@
+- Pas de constantes pour les limites et entrées utilisateur
+- Ligne 16, faute d'orthographe
+- Mauvais afficahge selon la consigne (il manque le début et la fin)
+- Warning à la compilation
+- L'affichage du tableau de nombre n'est pas correct du tout!
+- La fin du programme ne fonctionne pas, peu importe ce que l'on rentre, il termine
